@@ -1,0 +1,22 @@
+{
+  "name": "do-step",
+  "version": "1.0.0",
+  "description": "A tiny library for integration tests sitting on top of mocha's step methods",
+  "main": "do-step.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshSGman/do-step.git"
+  },
+  "author": "Josh G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshSGman/do-step/issues"
+  },
+  "homepage": "https://github.com/JoshSGman/do-step",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
